@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 12px 0 0 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(32, 32, 32);
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.container {
+  width: 100%;
+  max-width: 960px;
+  padding-left: 12px;
+  padding-right: 12px;
+  margin: 0 auto;
+}
+
+.camera {
+  margin: 0 auto;
+}
+
+button {
+  padding: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.hidden {
+  display: none;
+}
+
+.divider {
+  margin-top: 12px;
+}

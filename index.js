@@ -271,7 +271,7 @@ import * as tf from "@tensorflow/tfjs";
     })();
 
     const batch_size = 10;
-    const epochs = 15;
+    const epochs = 20;
     model
       .fit(input, output, {
         // batchSize: batch_size,
